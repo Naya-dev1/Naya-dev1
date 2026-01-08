@@ -66,7 +66,7 @@ A full‑stack booking web application inspired by Airbnb.
 
 ## ⚡ A Little More About Me
 
-I enjoy building products that feel intentional — where design, logic, and user experience work together. I’m particularly interested in web applications people use in their everyday lives, such as booking platforms, productivity tools, and user-focused web products.
+I enjoy building products that feel intentional, where design, logic, and user experience work together. I’m particularly interested in web applications people use in their everyday lives, such as booking platforms, productivity tools, and user-focused web products.
 
 
 If you’re building something meaningful or need a developer who values quality and user experience, feel free to reach out.

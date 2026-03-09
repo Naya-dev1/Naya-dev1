@@ -45,6 +45,16 @@ Right now, I'm deepening my expertise in advanced React patterns while actively 
 
 ## 🌍 Featured Projects
 
+### 💼 Worknest — Job Listing Platform
+A full-stack job listing platform built during an internship as part of a collaborative team. Contributed to backend development — specifically the job routes and REST API — alongside frontend support.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+🔗 [View Repository](https://github.com/Wayles-D/Worknest.git)
+🌐 [Live Demo](worknest-one.vercel.app)
+
+---
+
 ### ✨ Tidoy — Airbnb-Style Booking Platform
 A full-stack property booking web app where users can browse listings, filter by preferences, select dates, and complete bookings with integrated payment. Built with the MERN stack with protected routes and a modern responsive UI.
 
@@ -61,7 +71,7 @@ A frontend e-commerce website for browsing and ordering desserts, with a clean a
 **Tech:** JavaScript • HTML • Tailwind CSS
 
 🔗 [View Repository](https://github.com/Naya-dev1/BELLE-FULL)
-🌐 [Live Demo](https://belle-full-nine.vercel.app/)
+🌐 [Live Demo](https:)
 
 
 ---
@@ -76,14 +86,6 @@ A full-stack goal tracking app where users can create, update, and delete person
 
 ---
 
-### 💼 Worknest — Job Listing Platform
-A full-stack job listing platform built during an internship as part of a collaborative team. Contributed to backend development — specifically the job routes and REST API — alongside frontend support.
-
-**Tech:** React • Node.js • Express • MongoDB
-
-🔗 [View Repository](https://github.com/Naya-dev1/worknest)
-
----
 
 ## 📊 GitHub Stats
 

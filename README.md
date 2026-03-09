@@ -51,7 +51,7 @@ A full-stack job listing platform built during an internship as part of a collab
 **Tech:** React • Node.js • Express • MongoDB
 
 🔗 [View Repository](https://github.com/Wayles-D/Worknest.git)
-🌐 [Live Demo](worknest-one.vercel.app)
+🌐 [Live Demo](https://worknest-one.vercel.app/)
 
 ---
 
@@ -71,7 +71,7 @@ A frontend e-commerce website for browsing and ordering desserts, with a clean a
 **Tech:** JavaScript • HTML • Tailwind CSS
 
 🔗 [View Repository](https://github.com/Naya-dev1/BELLE-FULL)
-🌐 [Live Demo](https:)
+🌐 [Live Demo](https://belle-full-nine.vercel.app/)
 
 
 ---

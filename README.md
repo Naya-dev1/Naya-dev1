@@ -61,6 +61,8 @@ A frontend e-commerce website for browsing and ordering desserts, with a clean a
 **Tech:** JavaScript • HTML • Tailwind CSS
 
 🔗 [View Repository](https://github.com/Naya-dev1/BELLE-FULL)
+🌐 [Live Demo](https://belle-full-nine.vercel.app/)
+
 
 ---
 
@@ -70,6 +72,7 @@ A full-stack goal tracking app where users can create, update, and delete person
 **Tech:** React • Node.js • Express • MongoDB
 
 🔗 [View Repository](https://github.com/Naya-dev1/Goal-Front)
+🌐 [Live Demo](https://belle-full-nine.vercel.app/)
 
 ---
 

@@ -72,7 +72,16 @@ A full-stack goal tracking app where users can create, update, and delete person
 **Tech:** React • Node.js • Express • MongoDB
 
 🔗 [View Repository](https://github.com/Naya-dev1/Goal-Front)
-🌐 [Live Demo](https://belle-full-nine.vercel.app/)
+🌐 [Live Demo](https://goal-front-taupe.vercel.app/)
+
+---
+
+### 💼 Worknest — Job Listing Platform
+A full-stack job listing platform built during an internship as part of a collaborative team. Contributed to backend development — specifically the job routes and REST API — alongside frontend support.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+🔗 [View Repository](https://github.com/Naya-dev1/worknest)
 
 ---
 
@@ -82,6 +91,9 @@ A full-stack goal tracking app where users can create, update, and delete person
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naya-dev1&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naya-dev1&theme=tokyonight&hide_border=true)
+
+---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naya-dev1&theme=tokyonight&hide_border=true)
 
 ---

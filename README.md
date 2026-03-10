@@ -100,9 +100,9 @@ A full-stack goal tracking app where users can create, update, and delete person
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/stephanie-onyekwelibe-97228323b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/onyekwelibe-stephanie)
 - 🌐 [Portfolio](https://portfolio-1-ruddy-nu.vercel.app/)
-- 📧 [stephaniechi74@gmail.com](mailto:stephaniechi74@gmail.com)
+- 📧 [stephaniechi74@gmail.com](mailto:stephanie.onyekwelibe@gmail.com)
 - 🐙 [GitHub](https://github.com/Naya-dev1)
 
 ---
